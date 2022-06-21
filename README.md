@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a computer science student at Yale who loves problem solving! Apart from coding, I enjoy solving puzzles and teaching computer science!
+I'm a computer science student at Yale who loves problem solving. Apart from coding, I enjoy solving puzzles and teaching computer science!
 
 ### Bio
 - 🏢 I'm currently a Teaching Assistant @cs50 and a Student IT Technician @StudentTechnologyCollaborative 
