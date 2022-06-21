@@ -11,3 +11,5 @@ I'm a computer science student at Yale who loves problem solving! Apart from cod
 - 😄 My Pronouns: She/Her
 - ⚡ Fun fact: I am obssessed with Harry Potter, always repping Slyther-Claw! 
 
+
+![code](https://user-images.githubusercontent.com/50711847/174719502-2d2f910e-04d2-4ed3-b96a-6073cfe785ba.gif)
