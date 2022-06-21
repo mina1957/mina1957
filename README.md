@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm currently a computer science student at Yale who is passionate about problem solving! Apart from coding, I enjoy solving puzzles and teaching computer science!
 
-# Bio
+### Bio
 - 🏢 I'm currently a Teaching Assistant @cs50 
 - ⚙️ I'm skilled in: .c, .py, .js, .html, .css, .rkt
 - 🌱 I’m learning about git and open source (exciting!!)
