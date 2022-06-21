@@ -4,7 +4,7 @@ I'm currently a computer science student at Yale who is passionate about problem
 
 ### Bio
 - 🏢 I'm currently a Teaching Assistant @cs50 
-- ⚙️ I'm skilled in: .c, .py, .js, .html, .css, .rkt
+- ⚙️ I'm skilled in: `.c`, `.py`, `.js`, `.html`, `.css`, `.rkt`
 - 🌱 I’m learning about git and open source (exciting!!)
 - 👯 I would love to collaborate on any project, so reach out!
 - 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/aminata-sakho-yale/)
