@@ -12,4 +12,4 @@ I'm a computer science student at Yale who loves problem solving! Apart from cod
 - ⚡ Fun fact: I am obssessed with Harry Potter, always repping Slyther-Claw! 
 
 
-![code](https://user-images.githubusercontent.com/50711847/174719502-2d2f910e-04d2-4ed3-b96a-6073cfe785ba.gif)
+![code-coding](https://user-images.githubusercontent.com/50711847/174719663-c1d46d86-0b02-48ef-b067-4805b413941e.gif)
