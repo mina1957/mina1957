@@ -9,7 +9,7 @@ I'm a computer science student at Yale who loves problem solving. Apart from cod
 - 👯 I would love to collaborate on any project, so reach out!
 - 📫 How to reach me: Contact me on [LinkedIn](https://www.linkedin.com/in/aminata-sakho-yale/)
 - 😄 My Pronouns: She/Her
-- ⚡ Fun fact: I am obssessed with Harry Potter, always repping Slyther-Claw! 
+- ⚡ Fun fact: I love ziplining! 
 
 
 ![code-coding](https://user-images.githubusercontent.com/50711847/174719663-c1d46d86-0b02-48ef-b067-4805b413941e.gif)
